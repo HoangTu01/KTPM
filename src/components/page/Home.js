@@ -28,7 +28,7 @@ const Home = () => {
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img className="d-block w-100" src="https://tinvivu.com/wp-content/uploads/2020/08/8-chi-tiet-can-chu-y-khi-mua-nuoc-hoa-de-tranh-han-thumb.jpg" alt="First slide" />
+            <img className="d-block w-100" src="https://orchard.vn/wp-content/uploads/2018/04/dior-sauvage-edp_banner-scaled.jpg" alt="First slide" />
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src="https://cdn.vuahanghieu.com/unsafe/1200x0/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/news/2020/03/nhung-mui-huong-nuoc-hoa-dior-nam-chinh-hang-loi-cuon-phai-dep-nhat-18032020171010.png" alt="Second slide" />
